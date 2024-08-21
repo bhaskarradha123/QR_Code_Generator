@@ -23,8 +23,9 @@
 
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 
+## Server 💻
 
-
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
 
 
